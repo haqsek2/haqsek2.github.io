@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-Something about me.
+Hi, I am a security researcher from Pakistan with adaptive quirk and experience of penetration testing. Reading and writing code is my passion. 
+
+Email: haqsek2@gmail.com
