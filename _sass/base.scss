@@ -51,7 +51,7 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed #1bff00; //header;
   padding: 20px;
   margin: 0 0 40px 0;
 }
@@ -82,7 +82,7 @@ header h1 {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #3c8aff;
 }
 
 /* Main Content
@@ -235,8 +235,9 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: #1bff00;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-decoration: none;
 }
 
 a:active, a:focus {
